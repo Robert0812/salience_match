@@ -1,16 +1,14 @@
 %
-% Apply patch matching, in this application: compute the pairwise distances
-% within horizontal stripes.
-%
-% Created by Rui Zhao, on May 20, 2013. 
+% Created by Rui Zhao, on Sep 20, 2013. 
 % This code is release under BSD license, 
 % any problem please contact Rui Zhao rzhao@ee.cuhk.edu.hk
 %
 % Please cite as
-% Rui Zhao, Wanli Ouyang, and Xiaogang Wang. Unsupervised Salience Learning
-% for Person Re-identification. In IEEE Conference of Computer Vision and
-% Pattern Recognition (CVPR), 2013. 
+% Rui Zhao, Wanli Ouyang, and Xiaogang Wang. 
+% Person Re-identification by Salience Matching. 
+% In IEEE International Conference of Computer Vision, 2013. 
 %
+
 function [distmat1, idxmat1, pwmap] = mutualmap(feat1, feat2)
 % compute the symmetric nearest map 
 %

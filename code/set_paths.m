@@ -1,3 +1,15 @@
+%
+% Created by Rui Zhao, on Sep 20, 2013. 
+% This code is release under BSD license, 
+% any problem please contact Rui Zhao rzhao@ee.cuhk.edu.hk
+%
+% Please cite as
+% Rui Zhao, Wanli Ouyang, and Xiaogang Wang. 
+% Person Re-identification by Salience Matching. 
+% In IEEE International Conference of Computer Vision, 2013. 
+%
+
+
 addpath(genpath(strcat(project_dir, 'code\')));
 
 % load test dataset
