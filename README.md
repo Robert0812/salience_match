@@ -1,4 +1,4 @@
-Reid by Salience Matching
+Person Reid by Salience Matching
 =========================
 
 Matlab code for our ICCV 2013 work "Person Re-identification by Salience Matching" 
