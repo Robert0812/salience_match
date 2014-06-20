@@ -1,3 +1,13 @@
+%
+% Created by Rui Zhao, on Sep 20, 2013. 
+% This code is release under BSD license, 
+% any problem please contact Rui Zhao rzhao@ee.cuhk.edu.hk
+%
+% Please cite as
+% Rui Zhao, Wanli Ouyang, and Xiaogang Wang. 
+% Person Re-identification by Salience Matching. 
+% In IEEE International Conference of Computer Vision, 2013. 
+%
 % clc;
 % close all force;
 % clear model pwmap_gal pwmap_prb pwmap_trn pwmap_tst pwdist CMC par
