@@ -23,5 +23,5 @@ Remark
 
 Cite our work
 -------------
-Rui Zhao, Wanli Ouyang, and Xiaogang Wang. Person Re-identification by Salience Matching. In ICCV 2013.
-Rui Zhao, Wanli OUyang, and Xiaogang Wang. Unsupervised Salience Learning for Person Re-identification. In CVPR 2013.
+- Rui Zhao, Wanli Ouyang, and Xiaogang Wang. Person Re-identification by Salience Matching. In ICCV 2013.
+- Rui Zhao, Wanli OUyang, and Xiaogang Wang. Unsupervised Salience Learning for Person Re-identification. In CVPR 2013.
