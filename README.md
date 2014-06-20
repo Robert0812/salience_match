@@ -17,7 +17,7 @@ Currently, one demo is provided
 
 Remark
 ------
-- The approach will generate large amount of intermediate data in the cache directory, so make sure memory is large enough (at least 30GB)
+- The approach will generate large amount of intermediate data in the cache directory
 - The training / testing partition is generated following the approach [SDALF](http://www.lorisbazzani.info/code-datasets/sdalf-descriptor/) 
 - Parallel Toolbox can accellerate the computation, use matlabpool if necessary
 
