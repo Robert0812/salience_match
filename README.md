@@ -24,10 +24,17 @@ Remark
 Cite our work
 -------------
 @inproceedings{zhao2013person,
+ 
  title = {Person Re-identification by Salience Matching},
+ 
  author={Zhao, Rui and Ouyang, Wanli and Wang, Xiaogang},
+ 
  booktitle = {IEEE International Conference on Computer Vision (ICCV)},
+ 
  year = {2013},
+ 
  month = {December},
+ 
  address = {Sydney, Australia}
+ 
 }
