@@ -6,8 +6,8 @@ Matlab code for our ICCV 2013 work "Person Re-identification by Salience Matchin
 
 Installation
 ------------
-Download VIPeR dataset, and put the subfolders (\cam_a and \cam_b) into directory .\dataset\viper\
-Download CUHK01 dataset, and put the dataset at directory .\dataset\campus
+- Download VIPeR dataset, and put the subfolders (\cam_a and \cam_b) into directory .\dataset\viper\
+- Download CUHK01 dataset, and put the dataset at directory .\dataset\campus
 
 Demo
 ----
