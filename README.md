@@ -22,13 +22,16 @@ Currently, one demo is provided
 
 ##Citing our works
 Please kindly cite our work in your publications if it helps your research:
+    
     @inproceedings{zhao13person,
       Author = {Zhao, Rui and Ouyang, Wanli and Wang, Xiaogang},
       Title = { Person Re-identification by Salience Matching},
       booktitle = {IEEE International Conference on Computer Vision (ICCV)},
  	  year = {2013}
     }
-And our [previous work](https://github.com/Robert0812/salience_reid) published in CVPR 2013:  
+
+And our [previous work](https://github.com/Robert0812/salience_reid) published in CVPR 2013:
+  
     @inproceedings{zhao13unsupervised,
       Author = {Zhao, Rui and Ouyang, Wanli and Wang, Xiaogang},
       Title = { Unsupervised Salience Learning for Person Re-identification },
