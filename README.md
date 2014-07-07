@@ -28,7 +28,7 @@ Please kindly cite our work in your publications if it helps your research:
       booktitle = {IEEE International Conference on Computer Vision (ICCV)},
  	  year = {2013}
     }
-
+And our [previous work](https://github.com/Robert0812/salience_reid) published in CVPR 2013:  
     @inproceedings{zhao13unsupervised,
       Author = {Zhao, Rui and Ouyang, Wanli and Wang, Xiaogang},
       Title = { Unsupervised Salience Learning for Person Re-identification },
