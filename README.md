@@ -1,7 +1,9 @@
 Person Reid by Salience Matching
 =========================
 
-Matlab code for our ICCV 2013 work "Person Re-identification by Salience Matching" 
+Matlab code for our ICCV 2013 work "Person Re-identification by Salience Matching".  
+
+Created by [Rui Zhao](http://www.ee.cuhk.edu.hk/~rzhao/), June, 2014
 
 
 ##Installation
@@ -31,7 +33,7 @@ Please kindly cite our work in your publications if it helps your research:
     }
 
 And our [previous work](https://github.com/Robert0812/salience_reid) published in CVPR 2013:
-  
+
     @inproceedings{zhao13unsupervised,
       Author = {Zhao, Rui and Ouyang, Wanli and Wang, Xiaogang},
       Title = { Unsupervised Salience Learning for Person Re-identification },
