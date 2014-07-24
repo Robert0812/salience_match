@@ -64,7 +64,7 @@ end
 %
 MS = 1; % multi-shot
 
-project_dir = strcat(pwd, '\');
+project_dir = strcat(pwd, '/');
 set_paths;
 if par.norm_data
     normdata;
